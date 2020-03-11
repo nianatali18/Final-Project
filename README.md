@@ -1,7 +1,7 @@
-# Final-Project-
- ### Rick and Morty mini game
+# Final-Project
+ ### Rick and Morty Mini Game
  
- # - This game will be based on the show Rick and Morty and one of their adventures.
+ # This game will be based on the show Rick and Morty and one of their adventures.
  It will include some paths that can lead the user on an small adventure.
  The adventure will end completly based on what the users choices are.
  The game will loop to ask them if they would like to play the game again.
