@@ -23,10 +23,10 @@
   - Write a program that pulls data from weather API and then builds a simple web page with the weather information including graphics for the forecast (openweathermap.org is a free site that will give you all you need for this project).
 
  
- ### This game will be about Rick an Morty's cronenberg episode where Rick accidentaly turn the world into cronenbergs.
+ ### This game will be about Rick an Morty's Cronenberg episode where Rick accidentally turn the world into cronenbergs.
  Cronenbergs are mutated humans essentially and are in a slug like state. I am changing the adventure up a bit, as they
  simply choose to go to another dimension and start over there instead of fixing the problem. I will be giving a few choices that are not in the episode.
- Two being:
+ # Two being:
  - Choosing another dimension and ignoring the problem and essentially ending the game and tells them the results of their choice and then asks if they would like to play again 
  - Choosing to find a cure and going on an adventure that will aid in finding a cure and will have them write their findings in a file each time they find something and at the end they can look back at the file to see what they found and their finding will link to the end and determine whether they live or die. 
 
